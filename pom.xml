@@ -8,5 +8,6 @@
     <artifactId>toto</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <!-- TODO 1 Spring Boot 1.5.13 등록하기 -->
 
 </project>
