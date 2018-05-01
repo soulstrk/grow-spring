@@ -8,7 +8,6 @@
     <artifactId>toto</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <!-- TODO 1 Spring Boot 1.5.13 등록하기 -->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
@@ -18,6 +17,12 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <!--TODO 1 h2 등록-->
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
         </dependency>
     </dependencies>
 </project>
