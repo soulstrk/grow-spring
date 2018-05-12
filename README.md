@@ -18,12 +18,12 @@
 
 ### 2주차
 
-H2 + Mybatis 조합으로 CRUD 모두 만들어 보기.
-1주차 어노테이션의 의미와 2주차 때 추가된 코드들 한줄 한줄 이해하고 사용하기.
+1. H2 + Mybatis 조합으로 CRUD 모두 만들어 보기.
+2. 1주차 어노테이션의 의미와 2주차 때 추가된 코드들 한줄 한줄 이해하고 사용하기.
 
 ###### 공부해볼 거리
-REST API
-RestController vs Controller
+* REST API
+* RestController vs Controller
 
 ###### 참고
 * [Mybatis spring boot autoconfigure](http://www.mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/)
@@ -31,7 +31,7 @@ RestController vs Controller
 * [Spring Docs](https://docs.spring.io/spring-boot/docs/1.5.13.BUILD-SNAPSHOT/reference/htmlsingle/)
 
 ### 3주차
-1. tymeleaf 세팅
+1. Thymeleaf 세팅
 2. CommonController
 3. Web Template 적용
 4. Thymeleaf parsing issue(참고 사이트 확인)
